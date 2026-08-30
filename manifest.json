@@ -1,13 +1,1 @@
-{
-  "name": "Gym Plan — 12 Week Workout",
-  "short_name": "Gym Plan",
-  "description": "69 kg to 64 kg 12-week workout plan with warm-ups, strength, HIIT, cardio and stretching.",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f3f4f6",
-  "theme_color": "#111827",
-  "orientation": "portrait",
-  "icons": [
-    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
-  ]
-}
+{"name":"Gym Plan","short_name":"Gym Plan","start_url":"./","display":"standalone","background_color":"#f3f4f6","theme_color":"#111827","orientation":"portrait","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
