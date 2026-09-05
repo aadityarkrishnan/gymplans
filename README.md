@@ -1,11 +1,18 @@
-# Workout Plan PWA v4
+# Workout Plan PWA v5
 
-Workout split update:
-- Tuesday: Preacher Curl moved to Friday.
-- Tuesday keeps Barbell Biceps Curl and Hammer Curl.
-- Friday Full Body now includes Preacher Curl for biceps.
-- Friday Full Body includes Triceps Pushdown for triceps.
-- Cache bumped to v4.
+Visible app title is now:
+🏋️ Workout Plan
 
-Upload all four files to the ROOT of the GitHub Pages repository:
-index.html, manifest.json, sw.js, icon.svg.
+Subtitle:
+69 kg → 64 kg • Warm-up → Workout → HIIT → Cardio → Stretch
+
+Also includes the previous v4 workout changes:
+- Tuesday: Back Extension added; Preacher Curl moved to Friday.
+- Thursday: Face Pull removed.
+- Friday: Dumbbell Row replaced with Plate Loaded Mid Row.
+- Friday: Preacher Curl + Triceps Pushdown.
+- Romanian deadlift removed.
+- Maximum 5 simple stretches per day.
+- Cache version bumped to v5.
+
+Upload index.html, manifest.json, sw.js and icon.svg to the ROOT of the GitHub Pages repository.
