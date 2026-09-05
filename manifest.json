@@ -1,13 +1,11 @@
 {
-  "name": "Workout Plan",
-  "short_name": "Workout Plan",
-  "description": "12-week workout plan",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f3f4f6",
-  "theme_color": "#111827",
-  "orientation": "portrait",
-  "icons": [
-    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
-  ]
+  "name":"Workout Plan",
+  "short_name":"Workout Plan",
+  "description":"12-week workout plan",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f4f6",
+  "theme_color":"#111827",
+  "orientation":"portrait",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
