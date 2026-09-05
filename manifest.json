@@ -1,1 +1,10 @@
-{"name":"Gym Plan","short_name":"Gym Plan","start_url":"./","display":"standalone","background_color":"#f3f4f6","theme_color":"#111827","orientation":"portrait","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
+{
+  "name":"Workout Plan",
+  "short_name":"Workout Plan",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f4f6",
+  "theme_color":"#111827",
+  "orientation":"portrait",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
